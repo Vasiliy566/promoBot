@@ -16,10 +16,10 @@
 #### 3. python3 main.py
 #### Bot running!
 
-#### authors:
-##### Isaev Vasily       - bot development
-##### Lyalyuk Alexandra  - calculate marketing stat's
-##### Maslennikova Alina - deployment and documentation
+### authors:
+#### Isaev Vasily       - bot development [https://github.com/Vasiliy566]
+#### Lyalyuk Alexandra  - calculate marketing stat's
+#### Maslennikova Alina - deployment and documentation
 
 ## Class diagram
 ![Image description](bot.png)
